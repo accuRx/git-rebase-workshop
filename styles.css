@@ -1,0 +1,28 @@
+.more-0 {
+    color: brown;
+}
+
+.more-1::first-letter {
+    color: whitesmoke;
+
+}
+
+.more-2 {
+    background-color: aqua;
+}
+
+.more-3 {
+    border-radius: 50%;
+}
+
+.more-4 {
+    min-width: 100px;
+    min-height: 100px;
+}
+
+.more-5 {
+    padding: 1.5rem;
+}
+.more-5 {
+    font-size: 5rem;
+}
