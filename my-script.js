@@ -7,7 +7,7 @@ onStart();
 
 
 function sprinkle() {
-    console.log("click sprinkle")
+    console.log("sprinkle");
     const jsConfetti = new JSConfetti()
     jsConfetti.addConfetti()
 }
