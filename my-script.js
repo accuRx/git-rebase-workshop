@@ -1,5 +1,5 @@
 const onStart = () => {
-    console.log("javascipt is loading");
+    console.log("javascript is loading");
 }
 
 
