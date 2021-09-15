@@ -2,14 +2,13 @@ const onStart = () => {
     console.log("javascipt is loading");
 }
 
-
 onStart();
 
 
-function sprinkle() {
+const sprinkle = () => {
     console.log("sprinkle");
-    const jsConfetti = new JSConfetti()
-    jsConfetti.addConfetti()
+    const jsConfetti = new JSConfetti();
+    jsConfetti.addConfetti();
 }
 
 const clickMeButton = document.getElementById("surprise");
