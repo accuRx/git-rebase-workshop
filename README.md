@@ -4,7 +4,7 @@ Small repo to train the team on git rebase
 
 ## Workshop
 
-1 - Clone the repo: [https://github.com/phliem/git-rebase-workshop](https://github.com/phliem/git-rebase-workshop)
+1 - Clone this repo
 
 
 2 - Non interactive rebase: update dev-1 with the latest trunk
